@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif?cid=ecf05e47k5yjvr6zwlcq90p8zw7324w4yz28p6x9s81qra58&rid=giphy.gif&ct=ts" width="200"/>
 </div>
 
-## **Hi, i'm** [`<brave />`](https://t.me/bravelzt), _full-stack web developer_ :sunglasses:
+## **Hi, i'm** [`<brave />`](https://t.me/bravecode), _full-stack web developer_ :sunglasses:
 
 ```python
 while True:
