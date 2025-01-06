@@ -9,7 +9,7 @@ while True:
   print('Ah shit, here we go again.')
 ```
 
-<img align="left" alt="braveltd's github stats" src="https://github-readme-stats-gamma-pink-33.vercel.app//api?username=braveltd&show_icons=true&hide_border=true" />
+<img align="left" alt="braveltd's github stats" src="https://github-readme-stats-gamma-pink-33.vercel.app//api?username=braveltd&show_icons=true&hide_border=true&theme=great-gatsby" />
 
 ---
 
