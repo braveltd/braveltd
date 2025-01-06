@@ -9,9 +9,13 @@ while True:
   print('Ah shit, here we go again.')
 ```
 
+<img align="left" alt="braveltd's github stats" src="https://github-readme-stats-gamma-pink-33.vercel.app//api?username=braveltd&show_icons=true&hide_border=true" />
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+[telegram]: https://t.me/bravecode
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
