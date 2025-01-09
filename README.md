@@ -15,7 +15,7 @@ while True:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[telegram]: https://t.me/bravecode
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bravecode)
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="dev icon" width="40" height="40" />
